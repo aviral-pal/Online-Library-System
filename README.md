@@ -116,6 +116,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-Feel free to adjust wording or add live screenshots, badges, or links. Let me know if you’d like a version with GitHub badges or extra sections!
-::contentReference[oaicite:0]{index=0}
-```
